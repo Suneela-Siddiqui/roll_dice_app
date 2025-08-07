@@ -1,16 +1,58 @@
-# flutter_course_project
+# 🎲 Roll Dice App
 
-A new Flutter project.
+A simple and fun Flutter application that simulates rolling a dice. Perfect for casual use, quick decision-making, or as a starting project for learning Flutter development.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Tap to roll a virtual dice
+- Random number generator (1 to 6)
+- Smooth animation on roll
+- Clean and responsive UI
+- Beginner-friendly code structure
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this project locally, make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Suneela-Siddiqui/roll_dice_app.git
+cd roll_dice_app
+```
+
+### 2. Get the dependencies
+
+```bash
+flutter pub get
+```
+
+### 3. Run the app
+
+```bash
+flutter run
+```
+
+Make sure your emulator or physical device is running.
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Stateful Widgets
+- Random number logic
+- GestureDetector
+- Basic animation (optional)
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you’d like to contribute or suggest improvements, feel free to fork the repository and submit a PR.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 💡 Credits
+
+Built with ❤️ using Flutter.
+
